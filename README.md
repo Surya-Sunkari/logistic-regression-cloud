@@ -32,7 +32,7 @@ This is talking about "Geoff Campbell", who is a fictional character from the Au
 
 
 
-# Screenshots
+## Screenshots
 ### Proof of Deployment on Dataproc GKE Cluster
 ![cluster](cluster.png)
 
