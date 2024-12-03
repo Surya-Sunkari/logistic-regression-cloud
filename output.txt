@@ -1,0 +1,261 @@
+Top Words in Corpus: [('the', 359403), ('of', 165299), ('and', 141901), ('in', 127156), ('to', 115603), ('a', 100800), ('was', 53799), ('for', 42238), ('on', 40630), ('s', 40192)]
+
+TASK 1:
+0 Regression Coef (Weights): [1. 1. 1. ... 1. 1. 1.], Cost (negative LLH): 23557.40942573763
+1 Regression Coef (Weights): [0.98447875 0.99263533 0.99337589 ... 0.99979932 0.99979941 0.99979978], Cost (negative LLH): 23548.328750421948
+2 Regression Coef (Weights): [0.9689717  0.98527731 0.98675752 ... 0.99959867 0.99959887 0.9995996 ], Cost (negative LLH): 23539.256706629538
+3 Regression Coef (Weights): [0.95347885 0.97792592 0.98014489 ... 0.99939807 0.99939836 0.99939947], Cost (negative LLH): 23530.193289707735
+4 Regression Coef (Weights): [0.9380002  0.97058118 0.97353799 ... 0.99919751 0.9991979  0.99919937], Cost (negative LLH): 23521.138494970073
+5 Regression Coef (Weights): [0.92253575 0.96324308 0.96693683 ... 0.99899699 0.99899747 0.99899931], Cost (negative LLH): 23512.09231769647
+6 Regression Coef (Weights): [0.9070855  0.95591162 0.96034141 ... 0.99879651 0.99879709 0.9987993 ], Cost (negative LLH): 23503.054753133227
+7 Regression Coef (Weights): [0.89164946 0.94858681 0.95375173 ... 0.99859607 0.99859674 0.99859932], Cost (negative LLH): 23494.02579649322
+8 Regression Coef (Weights): [0.87622761 0.94126863 0.94716779 ... 0.99839567 0.99839644 0.99839938], Cost (negative LLH): 23485.00544295596
+9 Regression Coef (Weights): [0.86081998 0.93395711 0.94058958 ... 0.99819531 0.99819617 0.99819949], Cost (negative LLH): 23475.99368766769
+10 Regression Coef (Weights): [0.84542654 0.92665222 0.93401712 ... 0.997995   0.99799595 0.99799963], Cost (negative LLH): 23466.990525741487
+11 Regression Coef (Weights): [0.83004732 0.91935398 0.92745039 ... 0.99779472 0.99779577 0.99779981], Cost (negative LLH): 23457.995952257377
+12 Regression Coef (Weights): [0.8146823  0.91206239 0.9208894  ... 0.99759448 0.99759563 0.99760004], Cost (negative LLH): 23449.009962262393
+13 Regression Coef (Weights): [0.79933149 0.90477744 0.91433415 ... 0.99739429 0.99739552 0.9974003 ], Cost (negative LLH): 23440.032550770753
+14 Regression Coef (Weights): [0.78399489 0.89749914 0.90778464 ... 0.99719413 0.99719546 0.99720061], Cost (negative LLH): 23431.063712763887
+15 Regression Coef (Weights): [0.76867249 0.89022748 0.90124087 ... 0.99699402 0.99699544 0.99700095], Cost (negative LLH): 23422.103443190594
+16 Regression Coef (Weights): [0.75336431 0.88296247 0.89470283 ... 0.99679394 0.99679546 0.99680133], Cost (negative LLH): 23413.151736967095
+17 Regression Coef (Weights): [0.73807033 0.8757041  0.88817054 ... 0.99659391 0.99659552 0.99660176], Cost (negative LLH): 23404.208588977184
+18 Regression Coef (Weights): [0.72279057 0.86845238 0.88164399 ... 0.99639391 0.99639562 0.99640222], Cost (negative LLH): 23395.27399407232
+19 Regression Coef (Weights): [0.70752502 0.86120731 0.87512317 ... 0.99619396 0.99619576 0.99620273], Cost (negative LLH): 23386.3479470717
+20 Regression Coef (Weights): [0.69227367 0.85396888 0.86860809 ... 0.99599405 0.99599594 0.99600327], Cost (negative LLH): 23377.430442762416
+21 Regression Coef (Weights): [0.67703654 0.8467371  0.86209876 ... 0.99579418 0.99579616 0.99580386], Cost (negative LLH): 23368.52147589954
+22 Regression Coef (Weights): [0.66181362 0.83951197 0.85559516 ... 0.99559435 0.99559642 0.99560448], Cost (negative LLH): 23359.621041206206
+23 Regression Coef (Weights): [0.64660491 0.83229348 0.8490973  ... 0.99539455 0.99539673 0.99540514], Cost (negative LLH): 23350.729133373745
+24 Regression Coef (Weights): [0.63141041 0.82508164 0.84260518 ... 0.9951948  0.99519707 0.99520585], Cost (negative LLH): 23341.845747061823
+25 Regression Coef (Weights): [0.61623013 0.81787645 0.83611879 ... 0.99499509 0.99499745 0.99500659], Cost (negative LLH): 23332.970876898467
+26 Regression Coef (Weights): [0.60106405 0.8106779  0.82963815 ... 0.99479542 0.99479787 0.99480738], Cost (negative LLH): 23324.104517480257
+27 Regression Coef (Weights): [0.58591219 0.803486   0.82316324 ... 0.99459579 0.99459833 0.9946082 ], Cost (negative LLH): 23315.246663372385
+28 Regression Coef (Weights): [0.57077454 0.79630075 0.81669407 ... 0.99439621 0.99439884 0.99440907], Cost (negative LLH): 23306.39730910879
+29 Regression Coef (Weights): [0.5556511  0.78912214 0.81023064 ... 0.99419666 0.99419938 0.99420997], Cost (negative LLH): 23297.556449192252
+30 Regression Coef (Weights): [0.54054187 0.78195018 0.80377295 ... 0.99399715 0.99399996 0.99401091], Cost (negative LLH): 23288.72407809454
+31 Regression Coef (Weights): [0.52544685 0.77478487 0.79732099 ... 0.99379768 0.99380059 0.9938119 ], Cost (negative LLH): 23279.900190256463
+32 Regression Coef (Weights): [0.51036605 0.7676262  0.79087478 ... 0.99359825 0.99360125 0.99361292], Cost (negative LLH): 23271.08478008806
+33 Regression Coef (Weights): [0.49529945 0.76047418 0.78443429 ... 0.99339887 0.99340196 0.99341399], Cost (negative LLH): 23262.2778419686
+34 Regression Coef (Weights): [0.48024706 0.75332881 0.77799955 ... 0.99319952 0.9932027  0.99321509], Cost (negative LLH): 23253.47937024686
+35 Regression Coef (Weights): [0.46520889 0.74619008 0.77157054 ... 0.99300021 0.99300348 0.99301624], Cost (negative LLH): 23244.68935924107
+36 Regression Coef (Weights): [0.45018492 0.73905799 0.76514726 ... 0.99280095 0.99280431 0.99281742], Cost (negative LLH): 23235.907803239134
+37 Regression Coef (Weights): [0.43517516 0.73193255 0.75872972 ... 0.99260172 0.99260517 0.99261864], Cost (negative LLH): 23227.13469649873
+38 Regression Coef (Weights): [0.42017961 0.72481376 0.75231792 ... 0.99240254 0.99240608 0.99241991], Cost (negative LLH): 23218.370033247375
+39 Regression Coef (Weights): [0.40519827 0.71770161 0.74591185 ... 0.99220339 0.99220702 0.99222121], Cost (negative LLH): 23209.613807682596
+40 Regression Coef (Weights): [0.39023113 0.7105961  0.73951151 ... 0.99200429 0.99200801 0.99202255], Cost (negative LLH): 23200.86601397203
+41 Regression Coef (Weights): [0.3752782  0.70349724 0.73311691 ... 0.99180523 0.99180904 0.99182394], Cost (negative LLH): 23192.126646253524
+42 Regression Coef (Weights): [0.36033947 0.69640502 0.72672804 ... 0.9916062  0.9916101  0.99162536], Cost (negative LLH): 23183.395698635297
+43 Regression Coef (Weights): [0.34541495 0.68931944 0.72034491 ... 0.99140722 0.99141121 0.99142682], Cost (negative LLH): 23174.673165195993
+44 Regression Coef (Weights): [0.33050463 0.68224051 0.71396751 ... 0.99120828 0.99121235 0.99122832], Cost (negative LLH): 23165.959039984857
+45 Regression Coef (Weights): [0.31560851 0.67516821 0.70759583 ... 0.99100937 0.99101354 0.99102987], Cost (negative LLH): 23157.25331702183
+46 Regression Coef (Weights): [0.3007266  0.66810256 0.70122989 ... 0.99081051 0.99081477 0.99083145], Cost (negative LLH): 23148.555990297653
+47 Regression Coef (Weights): [0.28585888 0.66104355 0.69486968 ... 0.99061169 0.99061603 0.99063307], Cost (negative LLH): 23139.86705377403
+48 Regression Coef (Weights): [0.27100537 0.65399119 0.6885152  ... 0.99041291 0.99041734 0.99043473], Cost (negative LLH): 23131.18650138371
+49 Regression Coef (Weights): [0.25616605 0.64694546 0.68216645 ... 0.99021416 0.99021869 0.99023644], Cost (negative LLH): 23122.5143270306
+50 Regression Coef (Weights): [0.24134093 0.63990637 0.67582343 ... 0.99001546 0.99002007 0.99003818], Cost (negative LLH): 23113.85052458995
+51 Regression Coef (Weights): [0.22653001 0.63287392 0.66948614 ... 0.9898168  0.9898215  0.98983996], Cost (negative LLH): 23105.195087908396
+52 Regression Coef (Weights): [0.21173328 0.62584811 0.66315457 ... 0.98961818 0.98962297 0.98964178], Cost (negative LLH): 23096.548010804134
+53 Regression Coef (Weights): [0.19695075 0.61882893 0.65682873 ... 0.9894196  0.98942447 0.98944364], Cost (negative LLH): 23087.909287067017
+54 Regression Coef (Weights): [0.1821824  0.61181639 0.65050862 ... 0.98922106 0.98922602 0.98924554], Cost (negative LLH): 23079.278910458692
+55 Regression Coef (Weights): [0.16742825 0.60481049 0.64419423 ... 0.98902256 0.98902761 0.98904748], Cost (negative LLH): 23070.65687471271
+56 Regression Coef (Weights): [0.15268829 0.59781123 0.63788557 ... 0.9888241  0.98882923 0.98884946], Cost (negative LLH): 23062.043173534672
+57 Regression Coef (Weights): [0.13796251 0.5908186  0.63158263 ... 0.98862568 0.9886309  0.98865148], Cost (negative LLH): 23053.43780060231
+58 Regression Coef (Weights): [0.12325092 0.5838326  0.62528542 ... 0.9884273  0.98843261 0.98845354], Cost (negative LLH): 23044.840749565683
+59 Regression Coef (Weights): [0.10855352 0.57685324 0.61899392 ... 0.98822896 0.98823435 0.98825564], Cost (negative LLH): 23036.252014047215
+60 Regression Coef (Weights): [0.09387029 0.56988051 0.61270815 ... 0.98803066 0.98803614 0.98805778], Cost (negative LLH): 23027.67158764188
+61 Regression Coef (Weights): [0.07920125 0.56291441 0.6064281  ... 0.9878324  0.98783797 0.98785996], Cost (negative LLH): 23019.099463917315
+62 Regression Coef (Weights): [0.06454639 0.55595494 0.60015377 ... 0.98763418 0.98763984 0.98766218], Cost (negative LLH): 23010.53563641393
+63 Regression Coef (Weights): [0.0499057  0.5490021  0.59388516 ... 0.987436   0.98744174 0.98746444], Cost (negative LLH): 23001.980098645075
+64 Regression Coef (Weights): [0.0352792  0.5420559  0.58762227 ... 0.98723786 0.98724369 0.98726673], Cost (negative LLH): 22993.4328440971
+65 Regression Coef (Weights): [0.02066686 0.53511632 0.5813651  ... 0.98703976 0.98704568 0.98706907], Cost (negative LLH): 22984.893866229537
+66 Regression Coef (Weights): [0.0060687  0.52818336 0.57511364 ... 0.98684171 0.9868477  0.98687145], Cost (negative LLH): 22976.3631584752
+67 Regression Coef (Weights): [-0.0085153   0.52125704  0.5688679  ...  0.98664369  0.98664977
+  0.98667387], Cost (negative LLH): 22967.840714240334
+68 Regression Coef (Weights): [-0.02308512  0.51433734  0.56262787 ...  0.98644571  0.98645188
+  0.98647632], Cost (negative LLH): 22959.326526904722
+69 Regression Coef (Weights): [-0.03764078  0.50742426  0.55639356 ...  0.98624777  0.98625402
+  0.98627882], Cost (negative LLH): 22950.820589821826
+70 Regression Coef (Weights): [-0.05218228  0.50051781  0.55016496 ...  0.98604987  0.98605621
+  0.98608135], Cost (negative LLH): 22942.322896318896
+71 Regression Coef (Weights): [-0.06670961  0.49361798  0.54394207 ...  0.98585201  0.98585844
+  0.98588393], Cost (negative LLH): 22933.833439697148
+72 Regression Coef (Weights): [-0.08122279  0.48672477  0.53772489 ...  0.9856542   0.9856607
+  0.98568654], Cost (negative LLH): 22925.35221323182
+73 Regression Coef (Weights): [-0.09572181  0.47983818  0.53151342 ...  0.98545642  0.98546301
+  0.9854892 ], Cost (negative LLH): 22916.879210172363
+74 Regression Coef (Weights): [-0.11020667  0.47295821  0.52530766 ...  0.98525868  0.98526536
+  0.98529189], Cost (negative LLH): 22908.414423742543
+75 Regression Coef (Weights): [-0.12467738  0.46608486  0.51910761 ...  0.98506098  0.98506774
+  0.98509463], Cost (negative LLH): 22899.95784714057
+76 Regression Coef (Weights): [-0.13913395  0.45921813  0.51291327 ...  0.98486333  0.98487017
+  0.9848974 ], Cost (negative LLH): 22891.509473539227
+77 Regression Coef (Weights): [-0.15357636  0.45235801  0.50672463 ...  0.98466571  0.98467263
+  0.98470021], Cost (negative LLH): 22883.069296086036
+78 Regression Coef (Weights): [-0.16800463  0.4455045   0.5005417  ...  0.98446813  0.98447514
+  0.98450307], Cost (negative LLH): 22874.63730790332
+79 Regression Coef (Weights): [-0.18241876  0.43865761  0.49436447 ...  0.98427059  0.98427768
+  0.98430596], Cost (negative LLH): 22866.213502088416
+80 Regression Coef (Weights): [-0.19681875  0.43181733  0.48819294 ...  0.98407309  0.98408027
+  0.98410889], Cost (negative LLH): 22857.79787171372
+81 Regression Coef (Weights): [-0.2112046   0.42498367  0.48202711 ...  0.98387564  0.9838829
+  0.98391186], Cost (negative LLH): 22849.390409826912
+82 Regression Coef (Weights): [-0.22557631  0.41815661  0.47586698 ...  0.98367822  0.98368556
+  0.98371487], Cost (negative LLH): 22840.991109450984
+83 Regression Coef (Weights): [-0.2399339   0.41133616  0.46971255 ...  0.98348084  0.98348827
+  0.98351792], Cost (negative LLH): 22832.599963584464
+84 Regression Coef (Weights): [-0.25427735  0.40452232  0.46356382 ...  0.9832835   0.98329101
+  0.98332101], Cost (negative LLH): 22824.216965201496
+85 Regression Coef (Weights): [-0.26860668  0.39771508  0.45742078 ...  0.98308621  0.98309379
+  0.98312414], Cost (negative LLH): 22815.842107251992
+86 Regression Coef (Weights): [-0.28292189  0.39091445  0.45128344 ...  0.98288895  0.98289662
+  0.98292731], Cost (negative LLH): 22807.47538266175
+87 Regression Coef (Weights): [-0.29722298  0.38412042  0.4451518  ...  0.98269173  0.98269948
+  0.98273052], Cost (negative LLH): 22799.116784332615
+88 Regression Coef (Weights): [-0.31150995  0.37733299  0.43902584 ...  0.98249455  0.98250239
+  0.98253377], Cost (negative LLH): 22790.76630514257
+89 Regression Coef (Weights): [-0.3257828   0.37055217  0.43290558 ...  0.98229741  0.98230533
+  0.98233705], Cost (negative LLH): 22782.423937945896
+90 Regression Coef (Weights): [-0.34004155  0.36377794  0.42679101 ...  0.98210032  0.98210831
+  0.98214038], Cost (negative LLH): 22774.08967557332
+91 Regression Coef (Weights): [-0.35428618  0.35701031  0.42068212 ...  0.98190326  0.98191134
+  0.98194375], Cost (negative LLH): 22765.763510832112
+92 Regression Coef (Weights): [-0.36851671  0.35024927  0.41457892 ...  0.98170624  0.9817144
+  0.98174715], Cost (negative LLH): 22757.445436506237
+93 Regression Coef (Weights): [-0.38273314  0.34349483  0.40848141 ...  0.98150926  0.9815175
+  0.9815506 ], Cost (negative LLH): 22749.135445356504
+94 Regression Coef (Weights): [-0.39693547  0.33674698  0.40238958 ...  0.98131232  0.98132065
+  0.98135408], Cost (negative LLH): 22740.83353012067
+95 Regression Coef (Weights): [-0.41112371  0.33000572  0.39630344 ...  0.98111542  0.98112383
+  0.98115761], Cost (negative LLH): 22732.5396835136
+96 Regression Coef (Weights): [-0.42529785  0.32327106  0.39022297 ...  0.98091857  0.98092705
+  0.98096117], Cost (negative LLH): 22724.253898227387
+97 Regression Coef (Weights): [-0.43945791  0.31654298  0.38414819 ...  0.98072175  0.98073031
+  0.98076477], Cost (negative LLH): 22715.97616693149
+98 Regression Coef (Weights): [-0.45360388  0.30982148  0.37807909 ...  0.98052497  0.98053361
+  0.98056842], Cost (negative LLH): 22707.706482272857
+99 Regression Coef (Weights): [-0.46773577  0.30310658  0.37201566 ...  0.98032823  0.98033695
+  0.9803721 ], Cost (negative LLH): 22699.4448368761
+[('applicant', 0.9807670025462606), ('tribunal', 0.9806401550392528), ('respondent', 0.9806156252111068), ('appellant', 0.9805417933956081), ('pty', 0.9804427401820528)]
+
+TASK 2:
+Iteration: 0,  Cost (negative LLH): 21349.816529019532
+Iteration: 1,  Cost (negative LLH): 21346.296362390753
+Iteration: 2,  Cost (negative LLH): 21362.43678428524
+Iteration: 3,  Cost (negative LLH): 21357.592384370106
+Iteration: 4,  Cost (negative LLH): 21338.312560011575
+Iteration: 5,  Cost (negative LLH): 21336.117956407226
+Iteration: 6,  Cost (negative LLH): 21365.268225401225
+Iteration: 7,  Cost (negative LLH): 21356.477035218722
+Iteration: 8,  Cost (negative LLH): 21341.146178663836
+Iteration: 9,  Cost (negative LLH): 21335.01359802251
+Iteration: 10,  Cost (negative LLH): 21277.940413804343
+Iteration: 11,  Cost (negative LLH): 21277.08650110474
+Iteration: 12,  Cost (negative LLH): 21317.847156649892
+Iteration: 13,  Cost (negative LLH): 21313.020913304004
+Iteration: 14,  Cost (negative LLH): 21279.531949330812
+Iteration: 15,  Cost (negative LLH): 21269.505623600206
+Iteration: 16,  Cost (negative LLH): 21303.735905437177
+Iteration: 17,  Cost (negative LLH): 21294.970613498175
+Iteration: 18,  Cost (negative LLH): 21247.322617477243
+Iteration: 19,  Cost (negative LLH): 21243.845727461383
+Iteration: 20,  Cost (negative LLH): 21236.311804408437
+Iteration: 21,  Cost (negative LLH): 21238.074825947602
+Iteration: 22,  Cost (negative LLH): 21247.56192272826
+Iteration: 23,  Cost (negative LLH): 21240.14868533653
+Iteration: 24,  Cost (negative LLH): 21241.70927295617
+Iteration: 25,  Cost (negative LLH): 21239.647884869308
+Iteration: 26,  Cost (negative LLH): 21272.32220855296
+Iteration: 27,  Cost (negative LLH): 21267.471788221254
+Iteration: 28,  Cost (negative LLH): 21270.44891187707
+Iteration: 29,  Cost (negative LLH): 21266.781037018965
+Iteration: 30,  Cost (negative LLH): 21212.877901422486
+Iteration: 31,  Cost (negative LLH): 21210.641454163175
+Iteration: 32,  Cost (negative LLH): 21256.188873073617
+Iteration: 33,  Cost (negative LLH): 21247.202687580448
+Iteration: 34,  Cost (negative LLH): 21180.852480847185
+Iteration: 35,  Cost (negative LLH): 21177.289363299577
+Iteration: 36,  Cost (negative LLH): 21302.224944600497
+Iteration: 37,  Cost (negative LLH): 21297.408623507454
+Iteration: 38,  Cost (negative LLH): 21117.817993418375
+Iteration: 39,  Cost (negative LLH): 21117.12565814771
+Iteration: 40,  Cost (negative LLH): 21131.50114308
+Iteration: 41,  Cost (negative LLH): 21120.37811316816
+Iteration: 42,  Cost (negative LLH): 21156.62257973535
+Iteration: 43,  Cost (negative LLH): 21149.202996523047
+Iteration: 44,  Cost (negative LLH): 21155.92385640689
+Iteration: 45,  Cost (negative LLH): 21151.166556978846
+Iteration: 46,  Cost (negative LLH): 21167.004484725316
+Iteration: 47,  Cost (negative LLH): 21155.66999577921
+Iteration: 48,  Cost (negative LLH): 21122.77476944401
+Iteration: 49,  Cost (negative LLH): 21115.32291750148
+Iteration: 50,  Cost (negative LLH): 21086.546733214
+Iteration: 51,  Cost (negative LLH): 21080.526978818147
+Iteration: 52,  Cost (negative LLH): 21082.319716059377
+Iteration: 53,  Cost (negative LLH): 21077.01131560879
+Iteration: 54,  Cost (negative LLH): 21068.676462244264
+Iteration: 55,  Cost (negative LLH): 21062.775185536928
+Iteration: 56,  Cost (negative LLH): 21099.87318341259
+Iteration: 57,  Cost (negative LLH): 21095.23721985472
+Iteration: 58,  Cost (negative LLH): 21038.522819898473
+Iteration: 59,  Cost (negative LLH): 21033.50933112356
+Iteration: 60,  Cost (negative LLH): 21059.44923829141
+Iteration: 61,  Cost (negative LLH): 21053.26125465103
+Iteration: 62,  Cost (negative LLH): 21082.653926306037
+Iteration: 63,  Cost (negative LLH): 21076.598295094853
+Iteration: 64,  Cost (negative LLH): 21041.710204470928
+Iteration: 65,  Cost (negative LLH): 21040.835137422302
+Iteration: 66,  Cost (negative LLH): 21049.708643272457
+Iteration: 67,  Cost (negative LLH): 21043.784471821593
+Iteration: 68,  Cost (negative LLH): 21026.487847591205
+Iteration: 69,  Cost (negative LLH): 21022.92958755044
+Iteration: 70,  Cost (negative LLH): 21003.02005854549
+Iteration: 71,  Cost (negative LLH): 21002.036620518953
+Iteration: 72,  Cost (negative LLH): 20977.447735501326
+Iteration: 73,  Cost (negative LLH): 20969.6119483553
+Iteration: 74,  Cost (negative LLH): 21045.930162343193
+Iteration: 75,  Cost (negative LLH): 21042.4497420044
+Iteration: 76,  Cost (negative LLH): 20996.297755149324
+Iteration: 77,  Cost (negative LLH): 20981.141746448946
+Iteration: 78,  Cost (negative LLH): 20981.727760670656
+Iteration: 79,  Cost (negative LLH): 20977.189556485435
+Iteration: 80,  Cost (negative LLH): 20997.456661144548
+Iteration: 81,  Cost (negative LLH): 20988.937093444227
+Iteration: 82,  Cost (negative LLH): 20949.17177985276
+Iteration: 83,  Cost (negative LLH): 20937.797050022786
+Iteration: 84,  Cost (negative LLH): 20952.897187416955
+Iteration: 85,  Cost (negative LLH): 20948.152853572657
+Iteration: 86,  Cost (negative LLH): 20968.8443257488
+Iteration: 87,  Cost (negative LLH): 20965.286006896138
+Iteration: 88,  Cost (negative LLH): 20891.753851192192
+Iteration: 89,  Cost (negative LLH): 20889.91665605092
+Iteration: 90,  Cost (negative LLH): 20912.56331524217
+Iteration: 91,  Cost (negative LLH): 20907.567509773267
+Iteration: 92,  Cost (negative LLH): 20902.917070879485
+Iteration: 93,  Cost (negative LLH): 20896.935758512667
+Iteration: 94,  Cost (negative LLH): 20963.43508850885
+Iteration: 95,  Cost (negative LLH): 20958.591737403658
+Iteration: 96,  Cost (negative LLH): 20927.64724610974
+Iteration: 97,  Cost (negative LLH): 20924.091564859573
+Iteration: 98,  Cost (negative LLH): 20923.91755755852
+Iteration: 99,  Cost (negative LLH): 20915.192382165733
+[('applicant', 0.9808891901442036), ('tribunal', 0.9807410704707504), ('respondent', 0.9806137369438482), ('appellant', 0.9805248408832634), ('visa', 0.9804460672299133)]
+
+TASK 3:
+
+====== Evaluation Results After 100 Iterations ======
+Model Parameters Used:
+    - Number of Iterations: 100
+    - Regularization Parameter (regParam): 0.1
+    - Convergence Tolerance (tol): 1e-06
+
+Model Evaluation After Training:
+    - Total Data Points: 2753
+    - Correct Predictions: 2753
+    - Accuracy: 1.0000
+
+
+TASK 4:
+Accuracy: 0.9971
+F1 Score: 0.9333
+number of false positives:  0
+
+====== False Positive Analysis ======
